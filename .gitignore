@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sphinx build output
+docs/build/
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
